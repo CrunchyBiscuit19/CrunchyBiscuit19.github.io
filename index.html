@@ -24,15 +24,23 @@
 
   <div id="left" class="text-encompass">  
   <h3 class="title">Previous</h3>
-    <textarea></textarea>
+    <textarea id="paradestate-left" class="paradestate-raw" placeholder="Copy-paste message right after removing previous day entries."></textarea>
   </div>
   <div id="right" class="text-encompass">  
   <h3 class="title">Today</h3>
-    <textarea></textarea>
+    <textarea id="paradestate-right" class="paradestate-raw" placeholder="Copy-paste message right before doing parade state."></textarea>
   </div>
   <div id="bottom" class="text-encompass">  
-    <h3 class="title">Result</h3>
-    <textarea></textarea>
+    <table id="processedEntries" border="1">
+      <tr>
+        <th>No.</th>
+        <th>Rank</th>
+        <th>Name</th>
+        <th>Remark</th>
+      </tr>
+    </table>
+  
+  </body>
   </div>  
   <script src="index.js"></script>
 </body>

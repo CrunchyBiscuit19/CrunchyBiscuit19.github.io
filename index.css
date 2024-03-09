@@ -17,9 +17,11 @@
     width: 100%; /* Adjust width as needed */
     height: 500px;
     overflow: auto;
+    margin-top: 100px;
 }
 
 #processedEntries {
+    margin-top: 150px;
     border-collapse: collapse; 
 }
 

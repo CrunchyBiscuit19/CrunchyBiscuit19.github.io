@@ -16,12 +16,11 @@
 #bottom {
     width: 100%; /* Adjust width as needed */
     height: 500px;
-    overflow: auto;
     margin-top: 100px;
 }
 
 #processedEntries {
-    margin-top: 150px;
+    overflow: auto;
     border-collapse: collapse; 
 }
 
@@ -34,6 +33,10 @@
 .title {
     text-align: center;
     width: 100%;
+}
+
+#warning {
+    color: RED;
 }
 
 table, textarea {
@@ -57,8 +60,7 @@ tbody {
 }
 
 textarea:focus {
-    outline-color: #138a43; /* Change the color to your desired outline color */
-    /* Optionally, you can adjust other outline properties */
+    outline-color: #138a43;
     outline-style: solid;
     outline-width: 2px;
 }

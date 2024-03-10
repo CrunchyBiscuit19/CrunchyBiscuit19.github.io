@@ -1,0 +1,53 @@
+/*
+Good day, may I know who will NOT be in camp on
+
+Format:
+1. 3WO Martin Sng (Reason, location, duration)
+
+FRIDAY 080324
+
+1. 2LT Lambert (250124 - 110324, AIAC @PLC)
+2. CPT William (CCC/ CTC, 290224 to 250424)
+3. CPT Ying Lian (Overseas Leave, Japan, 030324-100324)
+4. MAJ Darren (2SIB BCT, MHC, 070324-220324)
+5. CPT Yi Kai (2SIB BCT, MHC, 070323-200324)
+6. 3WO Martin (2SIB BCT, MHC, 070323-220324)
+7. SSG Yi De (2SIB BCT, MHC, 070323-220324)
+8. CPT Aloysius (iLearn Educator Course, SAFTIMI, 070323-080323)
+9. MSG Charles (iLearn Educator Course, SAFTIMI, 070323-080323)
+10. ⁠CPL Jaden (MC, Cough, Sore throat, 070324 - 080324)
+11. CPT Wisely (OL, Japan, 070324 - 210324) 
+*/
+
+/*
+Good day, may I know who will NOT be in camp on
+
+Format:
+1. 3WO Martin Sng (Reason, location, duration)
+
+FRIDAY 080324
+
+1. 2LT Lambert (250124 - 110324, AIAC @PLC)
+2. CPT William (CCC/ CTC, 290224 to 250424)
+3. CPT Ying Lian (Overseas Leave, Japan, 030324-100324)
+4. MAJ Darren (2SIB BCT, MHC, 070324-220324)
+5. CPT Yi Kai (2SIB BCT, MHC, 070323-200324)
+6. 3WO Martin (2SIB BCT, MHC, 070323-220324)
+7. SSG Yi De (2SIB BCT, MHC, 070323-220324)
+8. CPT Aloysius (iLearn Educator Course, SAFTIMI, 070323-080323)
+9. MSG Charles (iLearn Educator Course, SAFTIMI, 070323-080323)
+10. ⁠CPL Jaden (MC, Cough, Sore throat, 070324 - 080324)
+11. CPT Wisely (OL, Japan, 070324 - 210324)
+12. ⁠CFC Eswar (Drone training, PLC, 080324)
+13. ⁠LCP Darren (Drone training, PLC, 080324)
+14. ⁠CPL Korvan (Drone training, PLC, 080324)
+15. ⁠CPL Wing Hong (Drone training, PLC, 080324)
+16. 3SG Axel (Dental AM MA @ NEE SOON CAMP DENTAL)
+17. MAJ Wei Hao (AM Local Leave, 080324 AM)
+18. ⁠LTA Divyash (AM XBK OIL, PM MAS scholarship psychometric test, 080324)
+19. 2lt sulaiman (pm off, 080324)
+20. 2lt alfy (pm off, 080324)
+21. 2lt carl (pm off, 080324)
+22. 2lt stefan (pm off, 080324)
+23. 2lt jun de (pm off, 080324)
+*/

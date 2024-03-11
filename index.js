@@ -42,7 +42,7 @@ function WriteTable(table, processedEntries) {
         row.cells[2].appendChild(document.createTextNode(processedEntries[i].name.toLowerCase().split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')));
         row.cells[3].appendChild(document.createTextNode(processedEntries[i].remark));
 
-        const backgroundColor = processedEntries[i].existed ? "#3FAF46" : "yellow";
+        const backgroundColor = processedEntries[i].existed ? "#92D050" : "#FFF000";
         for (let i = 0; i < 4; i++) row.cells[i].style.backgroundColor = backgroundColor;
     }
 }

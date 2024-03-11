@@ -2,6 +2,10 @@
     font-family: Helvetica, sans-serif;
 }
 
+body {
+    background-color: #91A396;
+}
+
 .text-encompass {
     display: flex;
     flex-direction: column;
@@ -60,6 +64,14 @@ table {
 
 tbody {
     border-radius: 10px;
+}
+
+textarea {
+    background-color: #3E423D;
+    color: #FFFFFF;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
 }
 
 textarea:focus {
